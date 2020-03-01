@@ -3,7 +3,7 @@
 '''
 boilerplate for python CLI scripts
 
-@author: n00py <purplem@protonmail.com>
+@author: butterflyx <info@butterflyx.com>
 '''
 
 import argparse, sys
