@@ -1,4 +1,5 @@
 #!/bin/python3
+# -*- coding: utf-8 -*-
 
 '''
 boilerplate for python CLI scripts
